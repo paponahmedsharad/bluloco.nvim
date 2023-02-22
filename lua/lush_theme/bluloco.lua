@@ -38,7 +38,7 @@ local config = require("bluloco").config
 local dark = {
   -- syntax
   bg          = hsl("#1a1b26"),
-  bgFloat     = hsl("#1c1d2a"),
+  bgFloat     = hsl("#1a1b26"),
   fg          = hsl("#ABB2BF"),
   cursor      = hsl("#FFCC00"),
   keyword     = hsl("#10B1FE"),
